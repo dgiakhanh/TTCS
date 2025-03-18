@@ -6,10 +6,10 @@ This Ecommerce Full Stack MERN project is a complete e-commerce platform using t
 
 Technologies
 
-[x] MongoDB - NoSQL database for storing product, user, and order information.
-[x] Express.js - Backend framework for handling APIs and business logic.
-[x] React.js - Frontend framework for building the user interface.
-[x] Node.js - Runtime environment for running the backend and connecting to MongoDB.
+[X] MongoDB - NoSQL database for storing product, user, and order information.
+[X] Express.js - Backend framework for handling APIs and business logic.
+[X] React.js - Frontend framework for building the user interface.
+[X] Node.js - Runtime environment for running the backend and connecting to MongoDB.
 
 Main Features
 
@@ -28,21 +28,3 @@ Main Features
 - Product Management: Add, edit, delete, and manage product categories.
 - Order Management: View, update order status, and process orders.
 - Content & Promotions Management: Create content, discount codes, and promotional programs.
-
-Installation & Running the Project
-
-1. Install Backend
-
-cd backend
-npm install
-npm start
-
-2. Install Frontend
-
-cd frontend
-npm install
-npm start
-
-3. Run the Entire Project
-
-npm run dev
