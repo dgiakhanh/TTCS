@@ -6,10 +6,10 @@ This Ecommerce Full Stack MERN project is a complete e-commerce platform using t
 
 Technologies
 
-[X] MongoDB - NoSQL database for storing product, user, and order information.
-[X] Express.js - Backend framework for handling APIs and business logic.
-[X] React.js - Frontend framework for building the user interface.
-[X] Node.js - Runtime environment for running the backend and connecting to MongoDB.
+- MongoDB - NoSQL database for storing product, user, and order information.
+- Express.js - Backend framework for handling APIs and business logic.
+- React.js - Frontend framework for building the user interface.
+- Node.js - Runtime environment for running the backend and connecting to MongoDB.
 
 Main Features
 
